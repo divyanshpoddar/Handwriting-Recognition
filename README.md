@@ -56,16 +56,3 @@ The project uses a dataset of handwritten characters for training the model. You
 ## Model
 
 The handwriting recognition model is built using a convolutional neural network (CNN). The model processes the preprocessed image and converts it into text.
-
-## Contributions
-
-Feel free to contribute to this project by forking the repository and submitting pull requests. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Special thanks to any contributors or sources that helped with the project.
-- Recognition of the dataset and any pre-trained models used.
