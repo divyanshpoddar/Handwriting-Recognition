@@ -51,7 +51,8 @@ This project implements a handwriting recognition system, which processes handwr
 
 ## Dataset
 
-The project uses a dataset of handwritten characters for training the model. You can modify or replace the dataset in the `data/` directory to improve or adjust recognition accuracy.
+The project uses a dataset of handwritten characters for training the model. You can modify or replace the dataset in the `data/` directory to improve or adjust recognition accuracy. You can download the dataset from the link given below
+https://www.kaggle.com/datasets/nibinv23/iam-handwriting-word-database
 
 ## Model
 
